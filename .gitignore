@@ -125,8 +125,7 @@ work_dirs/
 /projects/*/data
 .DS_Store
 
-# Pytorch
-*.pth
+#Pytorch
 
 # Profile
 *.prof
